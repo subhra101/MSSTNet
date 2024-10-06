@@ -8,3 +8,4 @@ The features extracted from each frequency band are subsequently sent to fully c
 The band-wise analysis reveals that the Beta band exhibits the most pronounced alterations due to MW onset. MSSTNet’s capacity to capture subtle spatio-temporal patterns across frequency bands underscores its efficacy as an MW detection framework, with promising scope for broader EEG-based applications.
 
 
+[cascaded.pdf](https://github.com/user-attachments/files/17269677/cascaded.pdf)
