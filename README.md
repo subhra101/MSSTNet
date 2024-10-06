@@ -7,4 +7,4 @@ In this approach, EEG data from individual frequency bands, extracted directly f
 The features extracted from each frequency band are subsequently sent to fully connected layers for MW detection. The MSSTNet model is validated on a publicly available MW and focus dataset, achieving a mixed-subject classification accuracy of 95.07\%, substantially outperforming baseline models. Furthermore, the intra-subject and cross-subject classification accuracies of 94.48\% and 83.13\%, respectively, demonstrate the robustness and generalizability of the proposed model. 
 The band-wise analysis reveals that the Beta band exhibits the most pronounced alterations due to MW onset. MSSTNet’s capacity to capture subtle spatio-temporal patterns across frequency bands underscores its efficacy as an MW detection framework, with promising scope for broader EEG-based applications.
 
-![cascaded](https://github.com/user-attachments/assets/7987cd2d-b9b8-421c-8bd2-277c594874c0)
+![bilinear](https://github.com/user-attachments/assets/2f3ee919-bba6-4a43-8e48-d019e6b93282)
